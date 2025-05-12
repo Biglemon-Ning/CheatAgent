@@ -1,0 +1,19 @@
+# This requirements show the proper package vision of bitsandbytes, accelerate, etc.
+bitsandbytes==0.39.0
+accelerate==0.21.0
+#deepspeed==0.10.0
+#git+https://github.com/PanQiWei/AutoGPTQ.git
+scipy
+sentencepiece
+datasets
+evaluate
+pytest
+#git+https://github.com/huggingface/peft.git
+peft==0.2.0
+transformers==4.28.0
+scikit-learn
+torch
+torchvision
+torchaudio
+tensorboard
+gradio

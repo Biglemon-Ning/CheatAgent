@@ -1,0 +1,11 @@
+*.pdf
+*/log
+*/checkpoint
+*/data
+*/alpaca-lora-7B
+*/alpaca-lora-7b_finetuned_by_myself
+*/alpaca-lora-7b_official
+*/results
+*/Saved_model
+*/__pycache__
+*.pyc
