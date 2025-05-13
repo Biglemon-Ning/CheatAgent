@@ -23,10 +23,10 @@ sh ./shell/evaluate.sh 0,1 CheatAgent
 where ```0,1``` is the used GPU devices. 
 
 ## Environments
-All used important pachages are included in the ```requirements.txt```.
+All used important packages are included in the ```requirements.txt```.
 
 ## Data and Model Checkpoints
-Please feel free to find the source data, code, and checkpoints in the following link:
+Please feel free to find the **source data, code, and checkpoints** in the following link:
 https://drive.google.com/file/d/1IdCnvk3p3j6CBc3jY4FcHcAE1l2EMTPJ/view?usp=sharing
 
 
